@@ -1,0 +1,16 @@
+date,product,category,quantity,price
+2026-08-01,apples,Fruits,10,1.20
+08/02/2026,APPLES,FRUITS,12,1.20
+2026/08/03,Bananas,fruits,15,0.80
+2026-08-04,bananas,fruits,15,0.80
+05-Aug-2026,Cherries,Fruits,8,3.00
+2026-08-06,apples,Fruits,-5,1.20
+2026-08-07,Oranges,,20,1.50
+2026-08-08,Bananas,Fruits,,0.80
+2026-08-09,Peaches,Fruits,10,
+2026-08-10,Pineapple,Fruits,2,999.00
+2026-08-11,apples,Fruits,10,1.20
+2026-08-11,apples,Fruits,10,1.20
+2026-08-12,Carrots,Vegetables,30,0.50
+2026-08-13,Broccoli,Vegetables,25,1.80
+2026-08-14,spinach,VEGETABLES,15,-0.90
